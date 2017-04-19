@@ -1,0 +1,103 @@
+/*******************************
+GENERAL
+********************************/
+a:visited {
+  color: none;
+}
+img {
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+}
+#wrapper {
+  max-width: 940px;
+  background-color: #FFF;
+}
+ul {
+  list-style: none;
+}
+* {
+  font-family: 'Changa One', cursive;
+}
+
+/*******************************
+HEADER
+*******************************/
+header {
+  text-align: center;
+  background-color: yellowgreen;
+  padding: 5px 0 0 0;
+}
+nav li {
+  font-size: 20px;
+  padding: 9px;
+  margin: 5px;
+  display: inline-block;
+}
+nav a:hover {
+  color: #000;
+}
+nav {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  background-color: darkgreen;
+}
+
+header a {
+  color: #FFF;
+}
+header h1, h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+
+}
+header h1 {
+  font-size: 3em;
+}
+header h2{
+  font-size: 1em;
+  font-weight: normal;
+}
+
+/********************************
+BODY
+*********************************/
+
+#gallery li{
+  float: left;
+  width: 40%;
+  margin: 2.5%;
+  background-color: #f5f5f5;
+  color: #bdc3c7;
+}
+#gallery li a p{
+  color:#bdc3c7;
+}
+
+}
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin-left: 0 5px;
+}
+/*div img {
+  max-width: 40%;*/
+
+}
+div li {
+
+  background-color: lightgrey;
+  display:inline;
+  }
+
+footer {
+  clear: both;
+  text-align: center;
+  font-size: 20px;
+
+}
+/**************************
+About.html
+**************************/
